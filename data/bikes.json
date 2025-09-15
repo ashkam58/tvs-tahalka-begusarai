@@ -1,0 +1,54 @@
+[
+  {
+    "name": "TVS Apache RTR 160 4V",
+    "slug": "apache-rtr-1604v",
+    "price_from_inr": 130000,
+    "engine_cc": 159.7,
+    "mileage_kmpl": 45,
+    "highlights": [
+      "Oil-cooled 4-valve engine",
+      "LED headlamp",
+      "SmartXonnect (optional)"
+    ],
+    "image": "/bikes/apache-rtr-1604v.png"
+  },
+  {
+    "name": "TVS Raider 125",
+    "slug": "raider-125",
+    "price_from_inr": 100000,
+    "engine_cc": 124.8,
+    "mileage_kmpl": 57,
+    "highlights": [
+      "Aggressive LED DRLs",
+      "Under-seat storage",
+      "Digital console"
+    ],
+    "image": "/bikes/TVS-Raider-125-motor.png"
+  },
+  {
+    "name": "TVS Jupiter 110",
+    "slug": "jupiter-110",
+    "price_from_inr": 83000,
+    "engine_cc": 109.7,
+    "mileage_kmpl": 50,
+    "highlights": [
+      "Metal body",
+      "ETFi technology",
+      "Large 21L boot"
+    ],
+    "image": "/bikes/jupiter-110.png"
+  },
+  {
+    "name": "TVS Ntorq 125",
+    "slug": "ntorq-125",
+    "price_from_inr": 99000,
+    "engine_cc": 124.8,
+    "mileage_kmpl": 47,
+    "highlights": [
+      "Race-tuned engine",
+      "Navigation assist",
+      "Stylish exhaust"
+    ],
+    "image": "/bikes/ntorq-125.jpg"
+  }
+]

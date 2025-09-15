@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TVS Oil Filter",
+    "image": "/parts/engine-air-filter.png",
+    "description": "Genuine TVS oil filter for optimal engine performance."
+  },
+  {
+    "name": "TVS Brake Pads",
+    "image": "/parts/brake-pads.png",
+    "description": "High-quality brake pads for safe riding."
+  },
+  {
+    "name": "TVS Air Filter",
+    "image": "/parts/air-filter.png",
+    "description": "Ensures clean air intake and better mileage."
+  }
+]
